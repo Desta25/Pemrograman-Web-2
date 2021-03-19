@@ -1,2 +1,2 @@
-# Web2
+# Pemrograman Web 2
 TUGAS PEMROGRAMAN WEB 2
